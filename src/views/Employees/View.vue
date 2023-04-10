@@ -7,7 +7,7 @@
         </div>
         <div class="card">
             <div class="card-header">
-                <h4> Employejj</h4>
+                <h4> Employee</h4>
                 <h4>
                     <RouterLink to="/employeeCreate" class="btn btn-primary float-end">
                         Add Employee
